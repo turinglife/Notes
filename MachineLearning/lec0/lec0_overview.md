@@ -10,7 +10,6 @@ title: Machine Learning basics
 - Fitting topic:
 	- Underfitting: The model can not fit the training data set well enough.
 	- Overfitting: The model can fit the training data set well, but it probably lose the ability to generalize well.
----
 
 # What is _Machine Learning_? #
 
