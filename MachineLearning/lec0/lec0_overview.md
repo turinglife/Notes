@@ -1,11 +1,12 @@
 ---
-title: Lecture 0 - Overview of Machine Learning
-shorttitle: Lecture 0
+title: Machine Learning basics
+
 ---
 
-# About this Course #
+# Generalization, Capacity and Underfitting, Overfitting #
 
-- This is a *graduate level* introduction to *advanced statistical learning*. 
+- Generalization Error: The expected error over all examples. 
+- Capacity: the number of examples the model could always fit, wherever their location and value.
 
 . . .
 
