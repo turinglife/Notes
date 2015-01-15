@@ -7,17 +7,9 @@ title: Machine Learning basics
 
 - Generalization Error: The expected error over all examples. 
 - Capacity: the number of examples the model could always fit, wherever their location and value.
-
-. . .
-
-- **No Exams!**
-- Topic driven
-- For each topic:
-	- Introductory lecture
-	- Paper reading and Homework
-	- In-class discussion
-- You will present a paper/subject at the end of the course
-
+- Fitting topic:
+	- Underfitting: The model can not fit the training data set well enough.
+	- Overfitting: The model can fit the training data set well, but it probably lose the ability to generalize well.
 ---
 
 # What is _Machine Learning_? #
