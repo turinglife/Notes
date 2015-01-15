@@ -11,9 +11,6 @@ title: Machine Learning basics
 	- Underfitting: The model can not fit the training data set well enough.
 	- Overfitting: The model can fit the training data set well, but it probably lose the ability to generalize well.
 
-# What is _Machine Learning_? #
-
-> **Machine learning** is a scientific discipline that explores the construction and study of algorithms that can learn from data. Such algorithms operate by building a model based on inputs and using that to make predictions and decisions, rather than following only explicitly programmed instructions.   -- Wikipedia
 
 ---
 
