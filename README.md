@@ -1,5 +1,8 @@
 # Note that
 
-If you want to browse pdf format file on github, you first need to install PDF.js which is a Portable Document Format (PDF) viewer that is built with HTML5.
+VERY DEEP CONVOLUTIONAL NETWORKS FOR LARGE-SCALE IMAGE RECOGNITION<br>
+http://arxiv.org/pdf/1409.1556.pdf
 
-Link: https://github.com/mozilla/pdf.js/
+Three aspects for improving the performance of CNN
+1. smaller receptive window size and smaller stride of the first convolutional layer.<br>
+2. 
